@@ -1,0 +1,26 @@
+P {
+    color: rgba(196, 14, 69, 0.459);
+    font-size: 25px;
+}
+ h1 {
+        color: #04040f;
+        text-align: center;
+ } 
+
+ h3 {
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+ }
+body {
+    background-color: #d6c9b8;
+}
+.highlight {
+    color: rgba(207, 130, 14, 0.986);
+    font-weight: bold;
+}
+
+#titulo-principal {
+    color: navy;
+    font-size: 24px;
+}
